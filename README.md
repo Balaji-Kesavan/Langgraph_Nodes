@@ -16,4 +16,4 @@ The output of the application
 === Workflow Complete ===
 
 {'user_input': 'How do agents talk in LangGraph?', 'summary': 'AI agents in LangGraph communicate via shared state and edges.', 'final_output': "Here's a detailed explanation article: AI agents in LangGraph communicate via shared state and edges.\n\nConclusion: Multi-agent systems can be easily built with LangGraph!"}
-(base) balajikesavan@MacBook agent_agent_coms % 
+(base) bk % 
